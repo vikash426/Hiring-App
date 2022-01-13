@@ -2,9 +2,9 @@
 
 Flutter Application to book local workers around.
 
-Built using **Flutter** Frontend and **Node js** Backend and **MongoDB** Database.
+Built using **Flutter** Frontend, **Node js** Backend and **MongoDB** Database.
 
-## Getting Started
+## Screenshots
 
 This project is a starting point for a Flutter application.
 
