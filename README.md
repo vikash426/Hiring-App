@@ -1,7 +1,7 @@
 # hire_stream
 
-Flutter Application to book local workers around.
-Built using Flutter Frontend and Node js Backend and MongoDB Database.
+**Flutter Application to book local workers around.**
+**Built using Flutter Frontend and Node js Backend and MongoDB Database**.
 
 ## Getting Started
 
