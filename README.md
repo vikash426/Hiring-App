@@ -1,6 +1,7 @@
 # hire_stream
 
-A new Flutter project.
+Flutter Application to book local workers around.
+Built using Flutter Frontend and Node js Backend and MongoDB Database.
 
 ## Getting Started
 
